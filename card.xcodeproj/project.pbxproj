@@ -13,6 +13,8 @@
 		3C352D0B1B270FC900B1E561 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C352D0A1B270FC900B1E561 /* Images.xcassets */; };
 		3C352D0E1B270FC900B1E561 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3C352D0C1B270FC900B1E561 /* LaunchScreen.xib */; };
 		3C352D1A1B270FCA00B1E561 /* cardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C352D191B270FCA00B1E561 /* cardTests.swift */; };
+		3C352D241B27106200B1E561 /* flower.png in Resources */ = {isa = PBXBuildFile; fileRef = 3C352D231B27106200B1E561 /* flower.png */; };
+		3C352D261B27106A00B1E561 /* iceland.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3C352D251B27106900B1E561 /* iceland.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		3C352D131B270FCA00B1E561 /* cardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C352D181B270FCA00B1E561 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C352D191B270FCA00B1E561 /* cardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardTests.swift; sourceTree = "<group>"; };
+		3C352D231B27106200B1E561 /* flower.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = flower.png; path = ../flower.png; sourceTree = "<group>"; };
+		3C352D251B27106900B1E561 /* iceland.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = iceland.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		3C352D011B270FC900B1E561 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3C352D251B27106900B1E561 /* iceland.jpg */,
+				3C352D231B27106200B1E561 /* flower.png */,
 				3C352D021B270FC900B1E561 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -194,6 +200,8 @@
 			files = (
 				3C352D091B270FC900B1E561 /* Main.storyboard in Resources */,
 				3C352D0E1B270FC900B1E561 /* LaunchScreen.xib in Resources */,
+				3C352D241B27106200B1E561 /* flower.png in Resources */,
+				3C352D261B27106A00B1E561 /* iceland.jpg in Resources */,
 				3C352D0B1B270FC900B1E561 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
